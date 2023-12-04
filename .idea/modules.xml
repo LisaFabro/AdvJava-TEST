@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdvJava-TEST.iml" filepath="$PROJECT_DIR$/AdvJava-TEST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TEST1/TEST1.iml" filepath="$PROJECT_DIR$/TEST1/TEST1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TEST2/TEST2.iml" filepath="$PROJECT_DIR$/TEST2/TEST2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TEST3/TEST3.iml" filepath="$PROJECT_DIR$/TEST3/TEST3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TEST4/TEST4.iml" filepath="$PROJECT_DIR$/TEST4/TEST4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TEST5/TEST5.iml" filepath="$PROJECT_DIR$/TEST5/TEST5.iml" />
+    </modules>
+  </component>
+</project>
